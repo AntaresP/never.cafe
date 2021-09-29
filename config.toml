@@ -6,7 +6,7 @@ theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
@@ -34,9 +34,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Metadata mostly used in document's head
   # description = ""
   # images = [""]
-  themeColor = "#494f5c"
+# themeColor = "#494f5c"
+  themeColor = "#603811"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "小D的Blog"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -60,12 +61,12 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://twitter.com/"
 
   [[params.social]]
-    name = "instagram"
+    name = "slack"
     url = "https://instagram.com/"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/AntaresP/never.cafe/tree/gh-pages"
 
 [menu]
 
@@ -75,6 +76,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     weight = 10
 
   [[menu.main]]
+    name = "《Cafe》"
+    url = "cafe/"
+    weight = 11
+
+  [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about/"
     weight = 20
