@@ -7,44 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 21 Nov 2021 00:32:31 +0800</lastBuildDate><atom:link href="https://never.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 16:46:14 +0800</lastBuildDate>
+    <atom:link href="https://never.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>酒单</title>
+      <link>https://never.cafe/posts/%E9%85%92%E5%8D%95/</link>
+      <pubDate>Sun, 07 Jan 2024 16:46:14 +0800</pubDate>
+      <guid>https://never.cafe/posts/%E9%85%92%E5%8D%95/</guid>
+      <description>经典款 威士忌 highball: 威士忌45（波本/白马) 3*6+4.5＝25.5 古典：方糖，威士忌45，橙子，苦精 3*6+2+4+1＝25+8＝33 教父：威士</description>
+    </item>
     <item>
       <title>OpenGL的封装</title>
       <link>https://never.cafe/minigl/opengl/</link>
       <pubDate>Sun, 21 Nov 2021 00:32:31 +0800</pubDate>
-      
       <guid>https://never.cafe/minigl/opengl/</guid>
       <description>MiniGL之所以取了这么个名字，最初的想法就是希望把OpenGL作一个封装，方便自己使用。不过说归这么说吧，其实我心底也是有点野心的，总归</description>
     </item>
-    
     <item>
       <title>Crafts</title>
       <link>https://never.cafe/cafe/crafts/</link>
       <pubDate>Wed, 13 Oct 2021 18:28:04 +0800</pubDate>
-      
       <guid>https://never.cafe/cafe/crafts/</guid>
       <description>本篇记录了关于《Cafe》的所有未成型的想法，不作整理地单纯一条条写下来，想到啥记下啥。 一、 游戏世界观基础设定 开发”梦境“这个虚拟世界所使用</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://never.cafe/about/</link>
       <pubDate>Wed, 29 Sep 2021 10:13:02 +0800</pubDate>
-      
       <guid>https://never.cafe/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.&#xA;It makes use of a variety of open source projects including:&#xA;https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
     </item>
-    
     <item>
       <title>My First Post</title>
       <link>https://never.cafe/posts/my-first-post/</link>
       <pubDate>Wed, 29 Sep 2021 00:14:30 +0800</pubDate>
-      
       <guid>https://never.cafe/posts/my-first-post/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
