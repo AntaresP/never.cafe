@@ -4,6 +4,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "themes/hermit"]
+[submodule "hermit"]
 	path = themes/hermit
-	url = https://github.com/Track3/hermit.git
+	url = git@github.com:AntaresP/hermit.git
